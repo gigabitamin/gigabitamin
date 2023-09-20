@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  안녕하세요, AI Back-end Programmer 👨🏿‍💻로 성장해나가고 있는 gigabitamin 입니다!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgigabitamin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **gigabitamin/gigabitamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
