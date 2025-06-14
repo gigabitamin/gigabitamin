@@ -27,9 +27,6 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 
-### Top Langs
-![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigabitamin&layout=compact)
-
 
 
 <!-- 
