@@ -28,6 +28,7 @@
 ![slack](https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=Slack)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![vscode](https://img.shields.io/badge/cursor-1C3C3C.svg?&style=for-the-badge&logo=cursor&logoColor=white)
 
 
 
