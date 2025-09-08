@@ -1,7 +1,5 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20%20Like%20Cat%20and%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 
-### 안녕하세요, AI Back-end Programmer 👨🏿‍💻로 성장해나가고 있는 gigabitamin 입니다!
-
 ### 💪 Skills
 **🧑‍💻 Language & Frameworks**
 
